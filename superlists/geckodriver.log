@@ -1,0 +1,10 @@
+1535642359678	geckodriver	INFO	geckodriver 0.21.0
+1535642359689	geckodriver	INFO	Listening on 127.0.0.1:53162
+1535642362748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nbida\\AppData\\Local\\Temp\\rust_mozprofile.LTkFuXhyTHjO"
+Unable to read VR Path Registry from C:\Users\nbida\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\nbida\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\nbida\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\nbida\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\nbida\AppData\Local\openvr\openvrpaths.vrpath
+1535642365079	Marionette	INFO	Listening on port 53172
+1535642365102	Marionette	WARN	TLS certificate errors will be ignored for this session
